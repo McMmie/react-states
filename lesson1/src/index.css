@@ -37,7 +37,8 @@ cursor: pointer;
 }
 
 .view:hover {
-background-color: rgba(49, 81, 212, 0.7);
+animation: pulse 1s infinite;
+background-color: #3151d4b3;
 }
 
 .card img {
